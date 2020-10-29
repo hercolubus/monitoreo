@@ -138,7 +138,7 @@ processors:
 # "publish", "service".
 #logging.selectors: ["*"]
 
-logging.level: info
+logging.level: warning
 logging.to_files: true
 logging.files:
   path: /var/log
